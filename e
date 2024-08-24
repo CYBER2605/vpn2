@@ -1,0 +1,1 @@
+vless://telegram-VPNCUSTOMIZE@185.146.173.146:8080?path=%2FJoin--VPNCUSTOMIZE.V2ray.re%3Fed&security=none&encryption=none&host=VPNCUSTOMIZE.V2ray.Community.&type=ws#%F0%9F%87%B8%F0%9F%87%AASE+%7C+%F0%9F%94%B4+%7C+vless+%7C+%40mehrosaboran+%7C+0
